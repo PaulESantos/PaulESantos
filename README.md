@@ -1,11 +1,6 @@
 <h1 align="center"> Paul Efren Santos Andrade </h1>
 
-<h2 align="center"> Universidad Nacional de San Antonio Abad del Cusco </h2>
-<h3 align="center"> UNSAAC </h3>
-<h2 align="center"> ABERG </h2>
-
-
-
+<h2 align="center"> Universidad Nacional de San Antonio Abad del Cusco - UNSAAC -- ABERG </h2>
   
 📝 **Personal website:** [paulefrensa.rbind.io](https://paulefrensa.rbind.io)
 
