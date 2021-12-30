@@ -20,13 +20,11 @@ Hi there! I'm a plant ecologist and environmental data science.
 
 ## Contact me
 
-🐦 **Twitter**: [@richardjtelford][twitter]  
 **ORCiD**: [0000-0001-9826-3076](https://orcid.org/0000-0002-6635-0375)  
 **Personal website**: [PaulEfren](http://paulefrensa.rbind.io/)  
 
 
 
-[twitter]: https://twitter.com/PaulEfrenSantos
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PaulESantos)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
