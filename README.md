@@ -24,13 +24,6 @@ Hi there! I'm a plant ecologist and environmental data science.
 **Personal website**: [PaulEfren](http://paulefrensa.rbind.io/)  
 
 
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=PaulESantos)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
-
-
-
 <br />
 <br />
 
@@ -58,6 +51,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 
+![Github stats](https://github-readme-stats.vercel.app/api?username=PaulESantos)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
+
 
 -->
 
