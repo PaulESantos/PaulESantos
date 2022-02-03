@@ -30,6 +30,24 @@ Hi there! I'm a plant ecologist and environmental data science.
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
 
 
+
+<br />
+<br />
+
+---
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=PaulESantos&theme=dark&show_icons=true"/>
+    <br />
+    <br />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&theme=dark&layout=compact&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10" />
+  </div>
+</div>
+
+
+
 <!--
 
 Here are some ideas to get you started:
