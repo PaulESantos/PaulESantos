@@ -2,7 +2,7 @@
 
 <h2 align="center"> Universidad Nacional de San Antonio Abad del Cusco - UNSAAC -- ABERG </h2>
   
-📝 **Personal website:** [paulefrensa.rbind.io](https://paulefrensa.rbind.io)
+📝 **Personal website:** [paulefrensa.rbind.io](http://paulefrensa.rbind.io)
 
 🐦 **Twitter:** [@PaulEfrenSantos](https://twitter.com/PaulEfrenSantos)
  
