@@ -23,7 +23,7 @@ Hi there! I'm a plant ecologist and environmental data science.
 **ORCiD**: [0000-0001-9826-3076](https://orcid.org/0000-0002-6635-0375)  
 **Personal website**: [PaulEfren](http://paulefrensa.rbind.io/)  
 
-## CV
+#### CV
 💬 [SP](https://paulesantos.github.io/cv_spa/)
 💬 [EN](https://paulesantos.github.io/cv/)
 
