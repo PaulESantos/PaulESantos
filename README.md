@@ -15,7 +15,7 @@ Hi there! I'm a plant ecologist and environmental data science.
 
 
 ### Education
-- MS (2018 - present): Ecology and Environmental Management (UNSAAC)
+- MS Ecology and Environmental Management UNSAAC (Student)
 - BS (2012): Biology (UNSAAC)
 
 ## Contact me
