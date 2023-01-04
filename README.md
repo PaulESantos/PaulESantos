@@ -34,16 +34,9 @@ Hi there! I'm a plant ecologist and environmental data science.
 
 ---
 
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=PaulESantos&theme=github_dark&show_icons=true"/>
-    <br />
-    <br />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&theme=dark&layout=compact&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10" />
-  </div>
-</div>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=PaulESantos&theme=github_dark)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&theme=github_dark&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
 
 
 <!--
