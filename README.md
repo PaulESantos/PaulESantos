@@ -28,7 +28,7 @@ Hi there! I'm a plant ecologist and environmental data science.
 💬 [EN](https://paulesantos.github.io/cv/)
 
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulESantos&theme=github_dark)
 <br />
 <br />
 
@@ -36,7 +36,7 @@ Hi there! I'm a plant ecologist and environmental data science.
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=PaulESantos&theme=dark&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=PaulESantos&theme=github_dark&show_icons=true"/>
     <br />
     <br />
     <br />
