@@ -24,8 +24,8 @@ Hi there! I'm a plant ecologist and environmental data science.
 **Personal website**: [PaulEfren](http://paulefrensa.rbind.io/)  
 
 #### CV
-💬 [SP](https://paulesantos.github.io/cv_spa/)
-💬 [EN](https://paulesantos.github.io/cv/)
+💬 [Spanish](https://paulesantos.github.io/cv_spa/)
+💬 [English](https://paulesantos.github.io/cv/)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulESantos&theme=github_dark)
