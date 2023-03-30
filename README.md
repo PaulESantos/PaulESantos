@@ -37,14 +37,9 @@ Hi there! I'm a plant ecologist and environmental data science.
 💬 [Spanish CV](https://paulesantos.github.io/cv_spa/)
 💬 [English CV](https://paulesantos.github.io/cv/)
 
+[<img align="left" width="650" height="250" alt="Paul's Top Languages Used" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulESantos&theme=github_dark"/>](https://github.com/PaulESantos/)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulESantos&theme=github_dark)
-<br />
-<br />
-
----
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&theme=github_dark&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&langs_count=10)
+[<img align="right" width="350" height="250" alt="Paul's Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&theme=github_dark&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&langs_count=10&layout=compact"/>](https://github.com/PaulESantos/)
 
 <!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spcanelon&theme=buefy&layout=compact&langs-count=5" />
