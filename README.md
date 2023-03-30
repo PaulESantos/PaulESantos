@@ -1,11 +1,27 @@
-<h1 align="center"> Paul Efren Santos Andrade </h1>
+## Paul Efren Santos Andrade 👋🏽
 
-<h2 align="center"> Universidad Nacional de San Antonio Abad del Cusco - UNSAAC -- ABERG </h2>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+
+[<img align="right" width="400" alt="Paul's dynamically generated GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PaulESantos&show_icons=true&title_color=002642&icon_color=a23e02&bg_color=ffffff&border_color=2e4963&text_color=173552"/>](https://github.com/PaulESantos/)
+
+<!--Languages
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&theme=buefy&layout=compact&langs-count=5" />
+-->
+
+<!--Mastodon verification-->
+<a href="https://twitter.com/PaulEfrenSantos">
+  <img align="left" alt="Paul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/PaulESantos">
+  <img align="left" alt="Paul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://orcid.org/0000-0002-6635-0375">
+  <img align="left" alt="Paul's ORCID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
+</a>
+
+<br>
   
 📝 **Personal website:** [paulefrensa.rbind.io](http://paulefrensa.rbind.io)
-
-🐦 **Twitter:** [@PaulEfrenSantos](https://twitter.com/PaulEfrenSantos)
- 
 
 Hi there! I'm a plant ecologist and environmental data science.
 
@@ -18,14 +34,8 @@ Hi there! I'm a plant ecologist and environmental data science.
 - MS Ecology and Environmental Management UNSAAC (Student)
 - BS (2012): Biology (UNSAAC)
 
-## Contact me
-
-**ORCiD**: [0000-0001-9826-3076](https://orcid.org/0000-0002-6635-0375)  
-**Personal website**: [PaulEfren](http://paulefrensa.rbind.io/)  
-
-#### CV
-💬 [Spanish](https://paulesantos.github.io/cv_spa/)
-💬 [English](https://paulesantos.github.io/cv/)
+💬 [Spanish CV](https://paulesantos.github.io/cv_spa/)
+💬 [English CV](https://paulesantos.github.io/cv/)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulESantos&theme=github_dark)
@@ -34,25 +44,9 @@ Hi there! I'm a plant ecologist and environmental data science.
 
 ---
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=PaulESantos&theme=github_dark)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&theme=github_dark&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
-
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&theme=github_dark&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&langs_count=10)
 
 <!--
-
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 
-![Github stats](https://github-readme-stats.vercel.app/api?username=PaulESantos)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spcanelon&theme=buefy&layout=compact&langs-count=5" />
 
 -->
-
-
