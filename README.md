@@ -21,9 +21,12 @@
 <a href="https://paulefrensa.rbind.io">
   <img align="left" alt="Paul's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg" />
 </a>
+<a href="https://www.linkedin.com/in/paulesantosandrade/">
+  <img align="left" alt="Paul's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <br>
 
-
+## About me
 
 Hi there! I'm a plant ecologist and environmental data science.
 
