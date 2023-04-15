@@ -18,11 +18,10 @@
 <a href="https://orcid.org/0000-0002-6635-0375">
   <img align="left" alt="Paul's ORCID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
 </a>
-
+<a href="https://paulefrensa.rbind.io">
+  <img align="left" alt="Paul's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg" />
+</a>
 <br>
-  
-📝 **Personal website:** [paulefrensa.rbind.io](http://paulefrensa.rbind.io)
-
 Hi there! I'm a plant ecologist and environmental data science.
 
 ### What am I up to? 
