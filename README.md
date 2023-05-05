@@ -44,6 +44,7 @@ Hi there! I'm a plant ecologist and environmental data science.
 
 [<img alt="Paul's Top Languages Used" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulESantos&theme=github_dark"/>](https://github.com/PaulESantos/)
 
+[![CodersRank.io profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=paulesantos&badges=3&show-avatar=false&width=140&style=--border-radius:10px)](https://profile.codersrank.io/user/paulesantos)
 
 <!--
 [<img align="right" width="350" height="250" alt="Paul's Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&theme=github_dark&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&langs_count=10&layout=compact"/>](https://github.com/PaulESantos/)
