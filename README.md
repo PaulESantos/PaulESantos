@@ -46,6 +46,7 @@ Hi there! I'm a plant ecologist and environmental data science.
 
 [![CodersRank.io profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=paulesantos&badges=3&show-avatar=false&width=440&style=--border-radius:10px)](https://profile.codersrank.io/user/paulesantos)
 
+<a href="https://www.buymeacoffee.com/paulefrense" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <!--
 [<img align="right" width="350" height="250" alt="Paul's Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&theme=github_dark&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&langs_count=10&layout=compact"/>](https://github.com/PaulESantos/)
 
