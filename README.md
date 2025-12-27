@@ -1,14 +1,6 @@
-## Paul Efren Santos Andrade 👋🏽
+# Paul Efren Santos Andrade 👋🏽
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
-
-[<img align="right" width="400" alt="Paul's dynamically generated GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PaulESantos&show_icons=true&title_color=002642&icon_color=a23e02&bg_color=ffffff&border_color=2e4963&text_color=173552"/>](https://github.com/PaulESantos/)
-
-<!--Languages
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&theme=buefy&layout=compact&langs-count=5" />
--->
-
-<!--Mastodon verification-->
+<!-- Social Links -->
 <a href="https://twitter.com/PaulEfrenSantos">
   <img align="left" alt="Paul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -24,7 +16,12 @@
 <a href="https://www.linkedin.com/in/paulesantosandrade/">
   <img align="left" alt="Paul's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br>
+
+<br clear="left"/>
+
+<!-- GitHub Stats -->
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PaulESantos" alt="GitHub Streak" /></a>
 
 ## About me
 
