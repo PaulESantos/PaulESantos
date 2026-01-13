@@ -21,8 +21,6 @@
 
 <!-- GitHub Stats -->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PaulESantos" alt="GitHub Streak" /></a>
-
 ## About me
 
 Hi there! I'm a plant ecologist and environmental data science.
