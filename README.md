@@ -19,40 +19,28 @@
 <!-- GitHub Stats -->
 
 ## About me
-Hi there! I'm a plant ecologist and environmental data science.
+Hi there! I'm a plant ecologist and environmental data scientist based in Cusco, Perú 🇵🇪. I build reproducible R tools for biodiversity — taxonomy checks, spatial data, and open environmental datasets from Peru.
 
-### What am I up to? 
-- 🌱 💻 One of my recent projects is the [`ppendemic`](https://github.com/PaulESantos/ppendemic/) R package, which I developed with [Lucely Vilca](https://github.com/Lucel2448/) (UNSAAC). The package takes the data from The red book of endemic plants of Peru and makes easy the task of reviewing endemic species.
+### What am I up to?
+- 🌱 💻 I maintain a growing family of R packages for Peruvian biodiversity data, including [`avesperu`](https://github.com/PaulESantos/avesperu) (birds), [`perumammals`](https://github.com/PaulESantos/perumammals) (mammals), [`reptiledbr`](https://github.com/PaulESantos/reptiledbr) (reptiles), [`geoperu`](https://github.com/PaulESantos/geoperu) (spatial data), and [`ppendemic`](https://github.com/PaulESantos/ppendemic) — developed with [Lucely Vilca](https://github.com/Lucel2448/) (UNSAAC) — which makes it easy to review Peru's endemic plant species from the national red book.
+- 📚 I also work on official/open-data connectors like [`rsdot`](https://github.com/PaulESantos/rsdot) (SDOT-PCM spatial layers), [`rsniffs`](https://github.com/PaulESantos/rsniffs) (SNIFFS forestry & wildlife stats), and [`citesr`](https://github.com/PaulESantos/citesr) (CITES species listings).
+- 🌐 Check out all my projects, talks, and blog posts on my [website](https://paulefrensa.rbind.io/).
 
 ### 📦 R Packages on CRAN
 <!-- CRAN-STATS:START -->
-**📦 Descargas CRAN** · Total histórico: **94,098** · Último mes: **3,379** · _Actualizado: 2026-08-01_
-
-| Paquete | Descargas totales | Último mes | Última semana |
-|---|---:|---:|---:|
-| [peruflorads43](https://cran.r-project.org/package=peruflorads43) | 21,324 | 252 | 69 |
-| [ppendemic](https://cran.r-project.org/package=ppendemic) | 13,221 | 298 | 32 |
-| [avesperu](https://cran.r-project.org/package=avesperu) | 11,784 | 391 | 88 |
-| [iucnr](https://cran.r-project.org/package=iucnr) | 10,857 | 230 | 25 |
-| [geoperu](https://cran.r-project.org/package=geoperu) | 6,747 | 203 | 22 |
-| [redbookperu](https://cran.r-project.org/package=redbookperu) | 6,208 | 156 | 35 |
-| [mtsta](https://cran.r-project.org/package=mtsta) | 5,713 | 187 | 20 |
-| [perutimber](https://cran.r-project.org/package=perutimber) | 5,614 | 183 | 36 |
-| [reptiledb.data](https://cran.r-project.org/package=reptiledb.data) | 4,175 | 239 | 39 |
-| [fuzzystring](https://cran.r-project.org/package=fuzzystring) | 2,386 | 312 | 99 |
-| [rmdd](https://cran.r-project.org/package=rmdd) | 2,052 | 358 | 73 |
-| [wcvpmatch](https://cran.r-project.org/package=wcvpmatch) | 1,820 | 234 | 46 |
-| [perumammals](https://cran.r-project.org/package=perumammals) | 1,213 | 185 | 21 |
-| [tidyttmoment](https://cran.r-project.org/package=tidyttmoment) | 984 | 151 | 36 |
 <!-- CRAN-STATS:END -->
 
 ### Education
-- MS Ecology and Environmental Management UNSAAC (Student)
-- BS (2012): Biology (UNSAAC)
-💬 [Spanish CV](https://paulesantos.github.io/cv_spa/)
-💬 [English CV](https://paulesantos.github.io/cv/)
+- MS Ecology and Environmental Management, UNSAAC (Student)
+- BS (2012): Biology, UNSAAC
+
+💬 [Spanish CV](https://paulesantos.github.io/cv_spa/) · [English CV](https://paulesantos.github.io/cv/)
+🔗 [r-universe](https://paulesantos.r-universe.dev/) · [Blog](https://paulefrensa.rbind.io/blog/) · [Publicaciones](https://paulefrensa.rbind.io/publication/) · [Charlas](https://paulefrensa.rbind.io/talk/)
+
 [<img alt="Paul's Top Languages Used" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulESantos&theme=github_dark"/>](https://github.com/PaulESantos/)
+
 [![CodersRank.io profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=paulesantos&badges=3&show-avatar=false&width=440&style=--border-radius:10px)](https://profile.codersrank.io/user/paulesantos)
+
 <a href="https://www.buymeacoffee.com/paulefrense" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <!--
 [<img align="right" width="350" height="250" alt="Paul's Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&theme=github_dark&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&langs_count=10&layout=compact"/>](https://github.com/PaulESantos/)
