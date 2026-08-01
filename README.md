@@ -1,5 +1,4 @@
 # Paul Efren Santos Andrade 👋🏽
-
 <!-- Social Links -->
 <a href="https://twitter.com/PaulEfrenSantos">
   <img align="left" alt="Paul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -16,35 +15,26 @@
 <a href="https://www.linkedin.com/in/paulesantosandrade/">
   <img align="left" alt="Paul's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <br clear="left"/>
-
 <!-- GitHub Stats -->
-
 ## About me
-
 Hi there! I'm a plant ecologist and environmental data science.
-
 ### What am I up to? 
-
 - 🌱 💻 One of my recent projects is the [`ppendemic`](https://github.com/PaulESantos/ppendemic/) R package, which I developed with [Lucely Vilca](https://github.com/Lucel2448/) (UNSAAC). The package takes the data from The red book of endemic plants of Peru and makes easy the task of reviewing endemic species.
 
+### 📦 R Packages on CRAN
+<!-- CRAN-STATS:START -->
+<!-- CRAN-STATS:END -->
 
 ### Education
 - MS Ecology and Environmental Management UNSAAC (Student)
 - BS (2012): Biology (UNSAAC)
-
 💬 [Spanish CV](https://paulesantos.github.io/cv_spa/)
 💬 [English CV](https://paulesantos.github.io/cv/)
-
 [<img alt="Paul's Top Languages Used" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulESantos&theme=github_dark"/>](https://github.com/PaulESantos/)
-
 [![CodersRank.io profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=paulesantos&badges=3&show-avatar=false&width=440&style=--border-radius:10px)](https://profile.codersrank.io/user/paulesantos)
-
 <a href="https://www.buymeacoffee.com/paulefrense" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <!--
 [<img align="right" width="350" height="250" alt="Paul's Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulESantos&theme=github_dark&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&langs_count=10&layout=compact"/>](https://github.com/PaulESantos/)
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spcanelon&theme=buefy&layout=compact&langs-count=5" />
-
 -->
