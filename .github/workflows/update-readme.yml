@@ -1,0 +1,37 @@
+name: Update CRAN Stats
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # todos los días a las 06:00 UTC (~01:00 hora Perú)
+  workflow_dispatch:        # permite ejecutarlo manualmente desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: 'release'
+          use-public-rspm: true
+
+      - name: Instalar dependencias de R
+        run: install.packages(c("cranlogs", "dplyr"))
+        shell: Rscript {0}
+
+      - name: Ejecutar script de estadísticas
+        run: Rscript scripts/cran_stats.R
+
+      - name: Commit y push si hubo cambios
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: actualizar estadísticas de descargas CRAN [skip ci]"
+          git push
