@@ -30,6 +30,7 @@ mis_paquetes <- c(
   "ppendemic",
   "redbookperu",
   "reptiledb.data",
+  "reptiledbr",
   "rmdd",
   "tidyttmoment",
   "wcvpmatch"
