@@ -17,8 +17,10 @@
 </a>
 <br clear="left"/>
 <!-- GitHub Stats -->
+
 ## About me
 Hi there! I'm a plant ecologist and environmental data science.
+
 ### What am I up to? 
 - 🌱 💻 One of my recent projects is the [`ppendemic`](https://github.com/PaulESantos/ppendemic/) R package, which I developed with [Lucely Vilca](https://github.com/Lucel2448/) (UNSAAC). The package takes the data from The red book of endemic plants of Peru and makes easy the task of reviewing endemic species.
 
