@@ -28,7 +28,7 @@ Hi there! I'm a plant ecologist and environmental data scientist based in Cusco,
 
 ### 📦 R Packages on CRAN
 <!-- CRAN-STATS:START -->
-**📦 Descargas CRAN** · Total histórico: **95,458** · Último mes: **2,575** · _Actualizado: 2026-08-05_
+**📦 Descargas CRAN** · Total histórico: **95,458** · Último mes: **2,575** · _Actualizado: 2026-08-06_
 
 | Paquete | Descargas totales | Último mes | Última semana |
 |---|---:|---:|---:|
