@@ -1,4 +1,4 @@
-# Paul Efren Santos Andrade 👋🏽
+# Paul E. Santos Andrade 👋🏽
 <!-- Social Links -->
 <a href="https://twitter.com/PaulEfrenSantos">
   <img align="left" alt="Paul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
