@@ -28,25 +28,25 @@ Hi there! I'm a plant ecologist and environmental data scientist based in Cusco,
 
 ### 📦 R Packages on CRAN
 <!-- CRAN-STATS:START -->
-**📦 Descargas CRAN** · Total histórico: **108,195** · Último mes: **4,125** · _Actualizado: 2026-11-01_
+**📦 Descargas CRAN** · Total histórico: **108,329** · Último mes: **3,935** · _Actualizado: 2026-11-02_
 
 | Paquete | Descargas totales | Último mes | Última semana |
 |---|---:|---:|---:|
-| [peruflorads43](https://cran.r-project.org/package=peruflorads43) | 22,109 | 294 | 58 |
-| [ppendemic](https://cran.r-project.org/package=ppendemic) | 14,511 | 368 | 92 |
-| [avesperu](https://cran.r-project.org/package=avesperu) | 13,303 | 586 | 119 |
-| [iucnr](https://cran.r-project.org/package=iucnr) | 11,975 | 336 | 85 |
-| [geoperu](https://cran.r-project.org/package=geoperu) | 7,649 | 240 | 51 |
-| [redbookperu](https://cran.r-project.org/package=redbookperu) | 6,812 | 231 | 50 |
-| [mtsta](https://cran.r-project.org/package=mtsta) | 6,358 | 189 | 44 |
-| [perutimber](https://cran.r-project.org/package=perutimber) | 6,199 | 185 | 35 |
-| [reptiledb.data](https://cran.r-project.org/package=reptiledb.data) | 5,005 | 246 | 62 |
-| [fuzzystring](https://cran.r-project.org/package=fuzzystring) | 3,266 | 296 | 80 |
-| [rmdd](https://cran.r-project.org/package=rmdd) | 3,028 | 305 | 57 |
-| [wcvpmatch](https://cran.r-project.org/package=wcvpmatch) | 2,713 | 229 | 36 |
-| [reptiledbr](https://cran.r-project.org/package=reptiledbr) | 1,907 | 219 | 48 |
-| [perumammals](https://cran.r-project.org/package=perumammals) | 1,871 | 218 | 47 |
-| [tidyttmoment](https://cran.r-project.org/package=tidyttmoment) | 1,489 | 183 | 28 |
+| [peruflorads43](https://cran.r-project.org/package=peruflorads43) | 22,121 | 276 | 69 |
+| [ppendemic](https://cran.r-project.org/package=ppendemic) | 14,522 | 346 | 83 |
+| [avesperu](https://cran.r-project.org/package=avesperu) | 13,313 | 558 | 108 |
+| [iucnr](https://cran.r-project.org/package=iucnr) | 11,985 | 319 | 72 |
+| [geoperu](https://cran.r-project.org/package=geoperu) | 7,655 | 224 | 55 |
+| [redbookperu](https://cran.r-project.org/package=redbookperu) | 6,823 | 233 | 53 |
+| [mtsta](https://cran.r-project.org/package=mtsta) | 6,373 | 196 | 48 |
+| [perutimber](https://cran.r-project.org/package=perutimber) | 6,205 | 160 | 37 |
+| [reptiledb.data](https://cran.r-project.org/package=reptiledb.data) | 5,013 | 225 | 60 |
+| [fuzzystring](https://cran.r-project.org/package=fuzzystring) | 3,270 | 285 | 78 |
+| [rmdd](https://cran.r-project.org/package=rmdd) | 3,043 | 302 | 57 |
+| [wcvpmatch](https://cran.r-project.org/package=wcvpmatch) | 2,717 | 223 | 33 |
+| [reptiledbr](https://cran.r-project.org/package=reptiledbr) | 1,915 | 213 | 47 |
+| [perumammals](https://cran.r-project.org/package=perumammals) | 1,880 | 207 | 46 |
+| [tidyttmoment](https://cran.r-project.org/package=tidyttmoment) | 1,494 | 168 | 32 |
 <!-- CRAN-STATS:END -->
 
 ### Education
